@@ -2,7 +2,7 @@
 .idea/
 Assignment3/index
 Assignment3/maildir
-
+*.iml
 
 
 # Created by https://www.gitignore.io/api/java,intellij,macos,windows
